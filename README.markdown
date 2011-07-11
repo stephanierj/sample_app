@@ -1,5 +1,6 @@
-This is the sample application for [Rails Tutorial](http://railstutorial.org).
+# My sample application
+## sample applications are awesome.
 
-# hash line 
+This is the sample application for [Rails Tutorial](http://railstutorial.org).
 
 [*This is a link*](www.google.com)
