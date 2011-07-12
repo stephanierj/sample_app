@@ -5,7 +5,7 @@ describe PagesController do
     
     before(:each) do
         #
-      "Ruby on Rails Tutorial Sample App"
+      @base_title = "Ruby on Rails Tutorial Sample App"
         #
       end
 
